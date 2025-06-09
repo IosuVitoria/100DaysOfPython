@@ -1,0 +1,220 @@
+**Días 1–10: Fundamentos de Python;**
+*Objetivo*: familiarizarte con variables, tipos de datos, entrada/salida, y operadores.
+
+1. Imprime "Hola, mundo".
+2. Suma dos números ingresados por el usuario.
+3. Calcula el área de un triángulo.
+4. Intercambia el valor de dos variables.
+5. Conversión de tipos (string a int, float a int, etc.).
+6. Determina si un número es par o impar.
+7. Calcula la edad en años a partir del año de nacimiento.
+8. Calcula el área y perímetro de un círculo.
+9. Determina si un número es positivo, negativo o cero.
+10. Conversión de temperatura (Celsius a Fahrenheit).
+
+🧮 Días 11–20: Control de flujo
+Objetivo: dominar condicionales y estructuras repetitivas.
+
+Comprobación de número primo.
+
+Tabla de multiplicar.
+
+Factorial de un número.
+
+Números del 1 al 100 divisibles por 3 y 5.
+
+Adivina el número (juego simple).
+
+Suma de los primeros N números naturales.
+
+Contador de dígitos de un número.
+
+Invertir un número.
+
+Palíndromo de números.
+
+Serie de Fibonacci hasta N.
+
+📜 Días 21–30: Strings y manipulación de texto
+Objetivo: trabajar con cadenas, slicing, métodos y validaciones.
+
+Longitud de una cadena.
+
+Contar vocales en una frase.
+
+Detectar si una palabra es palíndroma.
+
+Reemplazo de caracteres en string.
+
+Eliminar espacios de una cadena.
+
+Convertir a mayúsculas/minúsculas.
+
+Contar palabras en una oración.
+
+Validar email simple.
+
+Encontrar el carácter más frecuente.
+
+Comprobar si dos strings son anagramas.
+
+📦 Días 31–40: Listas y colecciones
+Objetivo: practicar estructuras de datos como listas, tuplas, sets y diccionarios.
+
+Crear una lista de N números aleatorios.
+
+Encontrar el mayor y menor número en una lista.
+
+Ordenar una lista sin sort().
+
+Eliminar duplicados de una lista.
+
+Suma y promedio de elementos.
+
+Contar elementos repetidos.
+
+Uso de diccionarios para contar palabras.
+
+Intersección de dos listas.
+
+Conversión de listas a sets.
+
+Diccionario de frecuencia de letras.
+
+📚 Días 41–50: Funciones
+Objetivo: crear y reutilizar código mediante funciones.
+
+Función que calcule el factorial.
+
+Función para comprobar números primos.
+
+Función para convertir grados.
+
+Función que invierta un string.
+
+Función con parámetros opcionales.
+
+Función para encontrar números pares en lista.
+
+Función que reciba otra función como parámetro.
+
+Función recursiva (Fibonacci).
+
+Uso de *args y **kwargs.
+
+Decoradores básicos.
+
+🧱 Días 51–60: Estructuras y lógica avanzada
+Objetivo: aplicar lógica de programación más compleja.
+
+Algoritmo de ordenamiento (burbuja).
+
+Validación de contraseña fuerte.
+
+Sudoku validator (matriz 9x9).
+
+Números felices.
+
+Generador de contraseñas.
+
+Juego de piedra, papel o tijera.
+
+Validación de tarjetas de crédito (Luhn).
+
+Contador de palabras más frecuentes en texto largo.
+
+Compresor de strings tipo RLE.
+
+Calendario mensual simple con calendar.
+
+🧰 Días 61–70: Manejo de archivos
+Objetivo: leer, escribir y manipular archivos en disco.
+
+Leer un archivo .txt línea por línea.
+
+Contar líneas, palabras y caracteres.
+
+Buscar una palabra dentro de un archivo.
+
+Escribir texto a un nuevo archivo.
+
+Copiar contenido de un archivo a otro.
+
+Leer archivo CSV.
+
+Crear un archivo JSON con un diccionario.
+
+Leer archivo JSON y extraer datos.
+
+Reemplazar una palabra en un archivo.
+
+Registro de actividad con timestamps.
+
+🧪 Días 71–80: POO – Programación Orientada a Objetos
+Objetivo: entender clases, objetos, herencia, métodos y atributos.
+
+Clase Persona con nombre y edad.
+
+Métodos para mostrar y modificar datos.
+
+Clase CuentaBancaria con depósito y retiro.
+
+Herencia: clase Empleado hereda de Persona.
+
+Clase con método __str__.
+
+Contador de instancias con variable de clase.
+
+Herencia múltiple.
+
+Sobrecarga de operadores.
+
+Clase abstracta.
+
+Sistema simple de facturación orientado a objetos.
+
+🧪 Días 81–90: Librerías estándar y externas
+Objetivo: usar módulos y herramientas comunes de Python.
+
+Uso de random para simular un dado.
+
+Temporizador con time.sleep().
+
+Generador de fechas con datetime.
+
+Generar gráficos simples con matplotlib.
+
+Uso de os para listar archivos.
+
+Descarga de archivos con requests.
+
+Parsear datos HTML con BeautifulSoup.
+
+Uso básico de pandas para analizar un CSV.
+
+Crear un gráfico de barras con pandas.
+
+Web scraping de precios con requests + bs4.
+
+🧠 Días 91–100: Proyectos finales y desafíos
+Objetivo: aplicar todo lo aprendido.
+
+Juego de adivinar el número (POO + lógica).
+
+Analizador de sentimientos de texto (con librería externa).
+
+Gestor de tareas en consola (CRUD básico).
+
+Conversor de moneda con API de tipo de cambio.
+
+Mini calculadora en consola.
+
+Simulación de cajero automático.
+
+Lector de notas desde un archivo JSON.
+
+Analizador de logs de sistema.
+
+Web scraper de noticias y guardado en CSV.
+
+Proyecto libre: usa lo aprendido para algo útil o divertido.
