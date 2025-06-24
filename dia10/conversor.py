@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 import datetime
 
-API_KEY = "7f356ff517e14bdba0d05c5b80a2721b"
+API_KEY = "Introduce API KEY AQUI"
 
 def convertir(v, o, d):
     if o == d: return v
